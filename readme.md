@@ -12,8 +12,8 @@ This is a simple Node.js API that checks whether a given number is a prime numbe
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd project
+   git clone [<repository-url>](https://github.com/Ganesh01110/primeNumber.git)
+   cd primeNumber
    ```
 
 2. Install dependencies:
